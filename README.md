@@ -1,9 +1,8 @@
 # mt-app
 一个点餐项目
 
-> A Vue.js project
-
-npm Install
+>一个Vue.js项目
+npm安装
 安装依赖
 
 
